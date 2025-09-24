@@ -66,7 +66,7 @@ const Hero = () => {
                 1000,
                 // 'Mobile App Developer',
                 // 1000,
-                'Competative Programmer',
+                'Competitive Programmer',
                 1000,
               ]}
               wrapper="h3"
